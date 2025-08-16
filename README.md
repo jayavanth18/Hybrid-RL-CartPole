@@ -104,11 +104,15 @@ python code.py
 
 
 ### Live Agent Demo
+<div align="center">
 
-* Short Demo Video of Output*
-https://github.com/user-attachments/assets/879d8be0-8ea7-4244-8b6a-d0d68a3515e7
+**Watch the final trained agent (Hybrid DDQN) successfully balancing the pole in real-time.**
 
-</div>  
+![Live Demo of the Trained Agent](https://github.com/user-attachments/assets/879d8be0-8ea7-4244-8b6a-d0d68a3515e7)
+
+*This visualization is rendered using Pygame and shows the agent's performance after completing the full training cycle.*
+
+</div>
 
 ---
 
