@@ -9,8 +9,6 @@
 
 **Comparing Hill Climbing, Double Deep Q-Networks (DDQN), and a novel Hybrid approach for solving the classic CartPole problem.**
 
-🎥 [Demo Video (Coming Soon)](#)
-
 </div>  
 
 ---
@@ -98,14 +96,17 @@ python code.py
 
 ### Reward & Accuracy Comparison
 
-Hybrid (blue) often converges faster and outperforms DDQN (orange).
 
-![Comparison 1](https://github.com/user-attachments/assets/e34c7303-5ea4-47ec-8fd2-c02a4f17ddb3)
-![Comparison 2](https://github.com/user-attachments/assets/07601e5b-3eb3-4ce0-ad87-070e06681832)
+
+![Reward](https://github.com/user-attachments/assets/4d1c4326-d61a-4780-b3b4-c671547a35ba)
+![Episode Accuracy](https://github.com/user-attachments/assets/ee541a05-f48d-4cb7-91d1-6ff4856bffc1)
+<img width="1673" height="921" alt="Output" src="https://github.com/user-attachments/assets/5356c67d-c90d-4638-8deb-c3982d6af578" />
+
 
 ### Live Agent Demo
 
-*A GIF/video here would boost the README a lot.*
+* Short Demo Video of Output*
+https://github.com/user-attachments/assets/879d8be0-8ea7-4244-8b6a-d0d68a3515e7
 
 </div>  
 
