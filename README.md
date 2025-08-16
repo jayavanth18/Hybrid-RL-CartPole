@@ -33,6 +33,7 @@ The unique contribution is a **Hybrid RL technique**: bootstrapping a DDQN with 
 CartPole-Hybrid-RL/
 ├── code.py                         # Main script (training + evaluation + visualization)
 ├── Project_Overview_and_Literature_Review.pdf
+├── Report.pdf
 ├── requirements.txt
 └── README.md
 ```
