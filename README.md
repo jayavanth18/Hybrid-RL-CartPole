@@ -50,7 +50,7 @@ CartPole-Hybrid-RL/
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/YOUR_USERNAME/CartPole-Hybrid-RL.git
+git clone https://github.com/jayavanth18/Hybrid-RL-CartPole.git
 cd CartPole-Hybrid-RL
 
 # 2️⃣ (Optional) Setup virtual environment
